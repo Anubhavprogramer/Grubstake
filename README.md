@@ -1,6 +1,6 @@
 # Grubstake
 
-**Greubstake** is a comprehensive Scholarship and Loan Management System that allows users to easily access data about available scholarships and loans. Additionally, banks have the capability to upload loan details through a dedicated portal. This project is built with a robust backend using Express, a dynamic frontend with React, and stylish, responsive design powered by Tailwind CSS.
+**Grubstake** is a comprehensive Scholarship and Loan Management System that allows users to easily access data about available scholarships and loans. Additionally, banks have the capability to upload loan details through a dedicated portal. This project is built with a robust backend using Express, a dynamic frontend with React, and stylish, responsive design powered by Tailwind CSS.
 
 ## Table of Contents
 
